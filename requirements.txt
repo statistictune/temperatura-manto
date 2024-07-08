@@ -1,12 +1,7 @@
-pandas
-argparse
-requires.io
-pydub
-librosa
-noisereduce
-soundfile
-numpy
-
+numpy 
+datetime
+log 
+time
 pyodbc
-SQLAlchemy
+skmultiflow 
 scipy
