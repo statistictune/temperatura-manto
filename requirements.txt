@@ -1,0 +1,12 @@
+pandas
+argparse
+requires.io
+pydub
+librosa
+noisereduce
+soundfile
+numpy
+
+pyodbc
+SQLAlchemy
+scipy
